@@ -1,5 +1,5 @@
 provider "google" {
-  project = ""
-  region  = "us-west1"
-  zone    = "us-west1-a"
+  project = "bs-gcp-free"
+  region  = "us-central1"
+  zone    = "us-central1-a"
 }
